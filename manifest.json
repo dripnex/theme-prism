@@ -1,0 +1,7 @@
+{
+  "id": "theme-prism",
+  "name": "Prism",
+  "version": "0.1.0",
+  "description": "Psychedelic dark. Prismatic magenta/cyan shards.",
+  "main": "dist/index.js"
+}
